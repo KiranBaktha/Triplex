@@ -1,0 +1,64 @@
+<html>
+
+<head>
+<title>Front_Page</title>
+
+<style>
+#first{
+background-color: red;
+color: white;
+font-family:verdana;
+height: 70px;
+margin-bottom: 0.7cm;
+}
+
+.submit{
+border: none;
+background-color: #A9A9A9;
+color:white;
+height: 30px;
+width: 120px;
+font-size: 20px;
+cursor: pointer;
+-webkit-transition-duration: 0.5s;
+transition-duration: 0.5s;
+margin-top: 20px;
+}
+
+
+.submit:hover{
+opacity:0.7;
+}
+
+.input_text{
+width: 500px; 
+height: 45px;
+font-size:30px;
+}
+
+form{
+text-align: center;
+margin-top:250px;
+margin-left: 10px;
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+<div id = "first">
+<h1 align = "center">TRIPLEX</h1>
+</div>
+
+
+<form method = "post" action="http://localhost/main_page.cgi">
+ <input type="text" class = "input_text" placeholder = "Enter the search keyword" name="textt"><br>
+  <input class = "submit" type="submit" value="Submit">
+</form>
+
+</body>
+
+</html>
