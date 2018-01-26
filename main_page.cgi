@@ -86,6 +86,8 @@ margin-bottom: 0.7cm;
    }
     
 </style>""")
+
+# Bootstrap for some asthetic properties.
     
 print("""
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -108,6 +110,7 @@ print("""
 <h1 align = "center">TRIPLEX</h1>
 """)
 
+# Send the websites as variables to similarity.cgi when pressed.
 print("<button type = 'button' class = 'similar' onclick = 'location.href = \"http://localhost/similarity.cgi?first_website={};second_website={};third_website={}\";' style = 'background-color: black;'>View Similar Sentences</button>".format(links[0],links[1],links[2]))
 
 print("</div>")
