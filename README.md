@@ -2,5 +2,5 @@
 A web application that displays top 3 websites in google search in parallel. Also shows similar sentences in them computed using the Levenshtein distance metric.
 
 
-![Start Page](https://ibb.co/iE2WTb)
+![Start Page](Triplex/Start Page.png)
 
