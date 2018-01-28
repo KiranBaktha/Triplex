@@ -8,3 +8,8 @@ Sentence Segmentation is performed on  "period+space" and "> single space"
 
 ![StartPage](https://github.com/KiranBaktha/Triplex/blob/master/Start%20Page.png)
 
+![MainPage](https://github.com/KiranBaktha/Triplex/blob/master/Main%20Page.png)
+
+![SimilarityPage](https://github.com/KiranBaktha/Triplex/blob/master/Similar%20Sentences%20Page.png)
+
+
