@@ -8,15 +8,15 @@ For sentence similarity, sentence segmentation is performed on  "period+space" a
 
 Here are the screenshots of the application on my device.<br/>
 <br/>
-This is the start page with the keyword to be search = "science".
+This is the start page with the keyword to be search = "twitter".
 <br/>
-![StartPage](https://github.com/KiranBaktha/Triplex/blob/master/Start%20Page.png)
+![StartPage](https://github.com/KiranBaktha/Triplex/blob/master/Start_Page.png)
 
 <br/>
 This is the main page with the top 3 websites returned by google in parallel on the same webpage.
 <br/>
 
-![MainPage](https://github.com/KiranBaktha/Triplex/blob/master/Main%20Page.png)
+![MainPage](https://github.com/KiranBaktha/Triplex/blob/master/Main_Page.png)
 
 <br/>
 
@@ -25,7 +25,7 @@ The similar distances returned by the application.
 
 <br/>
 
-![SimilarityPage](https://github.com/KiranBaktha/Triplex/blob/master/Similar%20Sentences%20Page.png)
+![SimilarityPage](https://github.com/KiranBaktha/Triplex/blob/master/Similarity%20Page.png)
 
 <br/>
 
