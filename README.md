@@ -8,7 +8,7 @@ For sentence similarity, sentence segmentation is performed on  "period+space" a
 
 Here are the screenshots of the application on my device.<br/>
 <br/>
-This is the start page with the keyword to be search = "twitter".
+This is the start page with the keyword to be searched = "twitter".
 <br/>
 ![StartPage](https://github.com/KiranBaktha/Triplex/blob/master/Start_Page.png)
 
